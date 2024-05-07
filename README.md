@@ -3,14 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chromabeast&label=Profile%20views&color=0e75b6&style=flat" alt="chromabeast" /> 
 
-<div style="display: flex; justify-content: space-between;">
-    <a>
-        [![ChromaBeast's GitHub | Stats](https://stats.quine.sh/ChromaBeast/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
-    </a>
-    <a>
-        [![ChromaBeast's GitHub | Dependencies](https://stats.quine.sh/ChromaBeast/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
-    </a>
-</div>
+[![ChromaBeast's GitHub | Stats](https://stats.quine.sh/ChromaBeast/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
+[![ChromaBeast's GitHub | Dependencies](https://stats.quine.sh/ChromaBeast/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
 
 
 <p align="left"> 

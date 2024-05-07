@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sheersh Jaiswal</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chromabeast&label=Profile%20views&color=0e75b6&style=flat" alt="chromabeast" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chromabeast&label=Profile%20views&color=0e75b6&style=flat" alt="chromabeast" /> 
 
-[![ChromaBeast's GitHub | Stats](https://stats.quine.sh/ChromaBeast/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        [![ChromaBeast's GitHub | Stats](https://stats.quine.sh/ChromaBeast/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
+    </div>
+    <div>
+        [![ChromaBeast's GitHub | Dependencies](https://stats.quine.sh/ChromaBeast/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
+    </div>
+</div>
+
 
 <p align="left"> 
   <a href="https://twitter.com/sheershjaiswal" target="blank">

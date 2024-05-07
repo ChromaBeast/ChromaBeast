@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chromabeast&label=Profile%20views&color=0e75b6&style=flat" alt="chromabeast" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chromabeast" alt="chromabeast" /></a> </p>
+[![ChromaBeast's GitHub | Languages Over Time](https://stats.quine.sh/ChromaBeast/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
 
 <p align="left"> <a href="https://twitter.com/sheershjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/sheershjaiswal?logo=twitter&style=for-the-badge" alt="sheershjaiswal" /></a> </p>
 

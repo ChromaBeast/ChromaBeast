@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chromabeast&label=Profile%20views&color=0e75b6&style=flat" alt="chromabeast" /> </p>
 
 [![ChromaBeast's GitHub | Languages Over Time](https://stats.quine.sh/ChromaBeast/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
+[![ChromaBeast's GitHub | Stats](https://stats.quine.sh/ChromaBeast/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
 
 <p align="left"> <a href="https://twitter.com/sheershjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/sheershjaiswal?logo=twitter&style=for-the-badge" alt="sheershjaiswal" /></a> </p>
 

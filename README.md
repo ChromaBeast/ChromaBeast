@@ -8,6 +8,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chromabeast&show_icons=true&locale=en" alt="chromabeast" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chromabeast&" alt="chromabeast" /></p>
+
 [![ChromaBeast's GitHub | Stats](https://stats.quine.sh/ChromaBeast/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
 [![ChromaBeast's GitHub | Dependencies](https://stats.quine.sh/ChromaBeast/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
 

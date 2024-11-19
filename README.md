@@ -31,7 +31,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chromabeast&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chromabeast&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chromabeast&" alt="Streak Stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chromabeast&" alt="Streak Stats" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,12 +47,20 @@
 </p>
 
 <h3 align="left">About Me:</h3>
-- 🔭 I’m currently working on [TagTweaker](https://github.com/ChromaBeast/tagtweaker)
-- 👨‍💻 All of my projects are available at [sheersh.tech](https://sheersh.tech/)
-- 💬 Ask me about **Flutter, Firebase, and problem solving**
-- 📫 How to reach me: **sheershjaiswal@gmail.com**
-- 📄 Know about my experiences: [sheersh.tech](https://sheersh.tech/)
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/ChromaBeast/tagtweaker">TagTweaker</a></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://sheersh.tech/">sheersh.tech</a></li>
+  <li>💬 Ask me about <strong>Flutter, Firebase, and problem solving</strong></li>
+  <li>📫 How to reach me: <strong>sheershjaiswal@gmail.com</strong></li>
+  <li>📄 Know about my experiences: <a href="https://sheersh.tech/">sheersh.tech</a></li>
+</ul>
 
 <h3 align="left">Additional Stats:</h3>
-[![ChromaBeast's GitHub | Stats](https://stats.quine.sh/ChromaBeast/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
-[![ChromaBeast's GitHub | Dependencies](https://stats.quine.sh/ChromaBeast/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast)
+<p align="center">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast">
+    <img src="https://stats.quine.sh/ChromaBeast/github?theme=dark" alt="ChromaBeast's GitHub | Stats" />
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast">
+    <img src="https://stats.quine.sh/ChromaBeast/dependencies?theme=dark" alt="ChromaBeast's GitHub | Dependencies" />
+  </a>
+</p>

@@ -41,6 +41,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChromaBeast&theme=radical&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -66,18 +74,5 @@
   </a>
   <a href="https://www.hackerrank.com/sheershjaiswal" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 📈 Additional Stats
-
-<p align="center">
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast">
-    <img src="https://stats.quine.sh/ChromaBeast/github?theme=dark" alt="GitHub Stats by Quine" />
-  </a>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=ChromaBeast">
-    <img src="https://stats.quine.sh/ChromaBeast/dependencies?theme=dark" alt="Dependency Stats by Quine" />
   </a>
 </p>

@@ -25,13 +25,13 @@
 
 ### 🧠 Tech Stack
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/va15d3cf2bbb0f0b76bff872a3310df731db3118331ec014ebef7ea080350285b/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,git,github,postman,docker" />

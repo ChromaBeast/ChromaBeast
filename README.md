@@ -53,8 +53,8 @@
 | Project | Description |
 |----------|--------------|
 | 🚀 [**Tag Tweaker**](https://github.com/ChromaBeast/tagtweaker) | A Flutter-based business catalog generator and tag optimizer. |
-| 📘 [**Resultly | Result Manager**](https://github.com/namansethi13/minor-project) | A Python + Django system for managing student results efficiently. |
-| ☁️ [**Remote Notes | Notes on Cloud**](https://play.google.com/store/apps/details?id=com.sheersh.rnotes) | A cross-platform note-taking app built with Flutter + Firebase. |
+| 📘 [**Resultly**](https://github.com/namansethi13/minor-project) | A Python + Django system for managing student results efficiently. |
+| ☁️ [**Remote Notes**](https://play.google.com/store/apps/details?id=com.sheersh.rnotes) | A cross-platform note-taking app built with Flutter + Firebase. |
 
 ---
 

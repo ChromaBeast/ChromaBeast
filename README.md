@@ -105,8 +105,6 @@ class SheershJaiswal extends FlutterDeveloper {
 
 ### ☁️ [Remote Notes](https://play.google.com/store/apps/details?id=com.sheersh.rnotes)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
 **Cross-platform note-taking app**
 - Real-time cloud sync
 - Offline-first architecture
@@ -121,8 +119,6 @@ class SheershJaiswal extends FlutterDeveloper {
 
 ### 📘 [Resultly](https://github.com/namansethi13/minor-project)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
 **Student result management system**
 - Role-based access control
 - Automated result processing
@@ -134,8 +130,6 @@ class SheershJaiswal extends FlutterDeveloper {
 <td width="50%" valign="top">
 
 ### 🔗 [More Projects](https://sheershjaiswal.in)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
 **Check out my portfolio!**
 - 10+ completed projects

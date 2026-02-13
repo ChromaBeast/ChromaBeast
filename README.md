@@ -22,7 +22,7 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## About Me
 
 ```dart
 class SheershJaiswal extends FlutterDeveloper {
@@ -46,7 +46,7 @@ class SheershJaiswal extends FlutterDeveloper {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,22 +69,19 @@ class SheershJaiswal extends FlutterDeveloper {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ChromaBeast&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChromaBeast&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChromaBeast&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChromaBeast&custom_title=Contribution%20Graph&bg_color=1a1b27&color=a855f7&line=a855f7&point=ffffff&area_color=a855f7&area=true&hide_border=true" width="98%" alt="Contribution Graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChromaBeast&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%" alt="Trophy"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c7e-b03e-53b8a3d5e1f5.png" width="30" /> Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -155,7 +152,7 @@ class SheershJaiswal extends FlutterDeveloper {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Education & Achievements
+## Education & Achievements
 
 <div align="center">
 
@@ -168,7 +165,7 @@ class SheershJaiswal extends FlutterDeveloper {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Connect With Me
+## Connect With Me
 
 <div align="center">
 

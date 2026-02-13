@@ -2,7 +2,7 @@
 <h3 align="center">💻 Flutter Developer | 🔥 Firebase Enthusiast | 🧩 Problem Solver</h3>
 
 <p align="center">
-  <a href="https://sheersh.info" target="_blank">
+  <a href="https://sheershjaiswal.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-sheersh.info-purple?style=for-the-badge&logo=firefox-browser" />
   </a>
   <a href="mailto:sheershjaiswal@gmail.com">

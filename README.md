@@ -1,112 +1,194 @@
 <div align="center">
 
-# 👋 Hey there, I'm Sheersh Jaiswal
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Sheersh+Jaiswal+%F0%9F%91%8B;Flutter+Developer+%7C+Firebase+Expert;Building+Beautiful+%26+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### 💻 Flutter Developer | 🔥 Firebase Enthusiast | 🧩 Problem Solver
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sheershjaiswal.in-purple?style=for-the-badge&logo=firefox-browser)](https://sheershjaiswal.in)
-[![Email](https://img.shields.io/badge/Email-sheershjaiswal@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sheershjaiswal@gmail.com)
+<p>
+<a href="https://sheershjaiswal.in" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-sheershjaiswal.in-blueviolet?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:sheershjaiswal@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-sheershjaiswal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/sheersh-jaiswal">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-## 💡 About Me
+```dart
+class SheershJaiswal extends FlutterDeveloper {
+  final String currentRole = "Flutter Developer @ Asymmetri";
+  final List<String> expertise = ["Flutter", "Firebase", "Clean Architecture"];
+  final String currentProject = "TagTweaker - Business Catalog Generator";
+  
+  Map<String, dynamic> get profile => {
+    "location": "India 🇮🇳",
+    "availability": ["Remote", "Relocation"],
+    "passion": "Building smooth, scalable, and beautiful apps",
+    "learning": "Always exploring new tools for performance optimization",
+    "askMeAbout": ["Flutter", "Firebase", "App Architecture", "Automation"],
+  };
+  
+  void sayHi() {
+    print("Thanks for visiting! Let's build something amazing together 🚀");
+  }
+}
+```
 
-🚀 Flutter Developer passionate about building smooth, scalable, and beautiful apps  
-🛠️ Skilled in **Flutter**, **Firebase**, and **app automation workflows**  
-🔍 Always exploring new tools to improve app performance and developer productivity  
-📱 Currently building **[TagTweaker](https://github.com/ChromaBeast/tagtweaker)** — a smart tool for business catalog generation  
-💼 Flutter Developer @ **Asymmetri**  
-🌏 Open to **remote** and **relocation** opportunities
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
-
-## 🧠 Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,kotlin,swift" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,androidstudio,figma" />
+</p>
+
+### Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,gcp" />
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 📊 GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Analytics
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ChromaBeast&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChromaBeast&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChromaBeast&show_icons=true&theme=radical&hide=prs&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChromaBeast&theme=radical" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChromaBeast&custom_title=Contribution%20Graph&bg_color=1a1b27&color=a855f7&line=a855f7&point=ffffff&area_color=a855f7&area=true&hide_border=true" width="98%" alt="Contribution Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChromaBeast&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%" alt="Trophy"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🧩 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c7e-b03e-53b8a3d5e1f5.png" width="30" /> Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 [Tag Tweaker](https://github.com/ChromaBeast/tagtweaker)
-A Flutter-based business catalog generator and tag optimizer for efficient product management.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChromaBeast&repo=tagtweaker&theme=tokyonight&hide_border=true" />
+
+**Flutter-based business catalog generator**
+- Smart tag optimization
+- Automated catalog generation
+- Business workflow automation
+
+`Flutter` `Firebase` `Automation`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ [Remote Notes](https://play.google.com/store/apps/details?id=com.sheersh.rnotes)
-Cross-platform note-taking app built with Flutter + Firebase for seamless sync.
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Cross-platform note-taking app**
+- Real-time cloud sync
+- Offline-first architecture
+- Beautiful Material Design UI
+
+`Flutter` `Firebase` `Cloud Sync`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📘 [Resultly](https://github.com/namansethi13/minor-project)
-Python + Django system for managing student results efficiently with role-based access.
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**Student result management system**
+- Role-based access control
+- Automated result processing
+- Django REST API backend
+
+`Python` `Django` `PostgreSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔗 More Projects
-Check out my [portfolio](https://sheershjaiswal.in) for more work!
+### 🔗 [More Projects](https://sheershjaiswal.in)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+**Check out my portfolio!**
+- 10+ completed projects
+- Open source contributions
+- Client work & freelance
+
+`Portfolio` `GitHub` `Live Apps`
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🎓 Education
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-**BCA** — Maharaja Surajmal Institute (2021–2024) • _CGPA: 9.1/10_  
-**Class XII (CBSE, Science)** — Bal Bharati Public School (2020–2021) • _84.6%_
-
----
-
-## 🌐 Connect with Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Education & Achievements
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-@sheershjaiswal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sheershjaiswal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheersh%20Jaiswal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheersh-jaiswal)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Sheersh%20Jaiswal-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sheershjaiswal)
+| 🎓 Degree | 🏫 Institution | 📅 Year | 🏆 Score |
+|-----------|---------------|---------|----------|
+| **BCA** | Maharaja Surajmal Institute | 2021-2024 | **9.1/10 CGPA** |
+| **Class XII (Science)** | Bal Bharati Public School | 2020-2021 | **84.6%** |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Connect With Me
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChromaBeast&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+<a href="https://twitter.com/sheershjaiswal">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+</a>
+<a href="https://linkedin.com/in/sheersh-jaiswal">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+<a href="https://www.hackerrank.com/sheershjaiswal">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866" />
+</a>
+<a href="https://github.com/ChromaBeast">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
 
-**💬 Ask me about Flutter, Firebase, or clean architecture**
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontAlignY=70&animation=twinkling" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=ChromaBeast&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>

@@ -95,7 +95,7 @@
 - 🌏 Open to **remote** and **relocation** opportunities  
 - 💼 Currently working as **Flutter Developer @ Asymmetri**  
 - 🧠 Passionate about **automation, performance optimization**, and **user-centric design**  
-- 🌐 Portfolio → [**sheersh.info**](https://sheersh.info)
+- 🌐 Portfolio → [**sheershjaiswal.in**](https://sheershjaiswal.in)
 
 ---
 
